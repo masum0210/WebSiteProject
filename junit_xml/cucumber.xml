@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="Validate open browser Creadentiale" name="Go to home page with valid creadential" time="0">
+<skipped><![CDATA[Given open Browser..........................................................undefined
+And navigate to Macys URL...................................................undefined
+When user click on shop by department button................................undefined
+And user click on men button................................................undefined
+And user click on jeans button..............................................undefined
+Then user should be in mens jeans page......................................undefined
+And user will click on a pant...............................................undefined
+And choose a color..........................................................undefined
+And pick a size.............................................................undefined
+Then user will add to bag...................................................undefined
+And user will view bag & checkout...........................................undefined
+Then again user will click on keep shopping.................................undefined
+And user will land on Macys home page.......................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
